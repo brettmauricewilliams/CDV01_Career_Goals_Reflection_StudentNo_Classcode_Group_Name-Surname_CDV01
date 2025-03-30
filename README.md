@@ -46,13 +46,13 @@
   
  -Values that are important to me in a work environment:
   
-   A work culture that encourages finding creative solutions
+    A work culture that encourages finding creative solutions
   
-   Opportunities for training, certifications, and growth
+    Opportunities for training, certifications, and growth
   
-   A culture that respects personal time and well-being
+    A culture that respects personal time and well-being
   
-   Transparent leadership and clear expectation
+    Transparent leadership and clear expectation
 
 ### Part 2: Career Exploration Insights
 
