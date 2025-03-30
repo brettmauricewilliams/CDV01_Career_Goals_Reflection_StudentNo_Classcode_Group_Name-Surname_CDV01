@@ -15,11 +15,8 @@
 -Current skills and areas of expertise:
 
    Hardware Troubleshooting (PCs, printers, network devices)
-   
    Networking Basics (TCP/IP, DNS, DHCP, VPN, Wi-Fi troubleshooting)
-   
    Remote Desktop Support (Using tools like TeamViewer, AnyDesk, RDP)
-   
    Backup & Recovery (Data recovery and backup strategies)
    
 -Skills I need to develop or improve:
