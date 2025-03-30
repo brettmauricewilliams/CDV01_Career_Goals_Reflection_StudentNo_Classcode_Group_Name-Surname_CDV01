@@ -80,7 +80,7 @@
    
 3. **Alignment with Personal Profile**:
     
-   -How these industries/roles align with my skills, interests, and values:
+   How these industries/roles align with my skills, interests, and values:
       
       Tech and Software Development:
       
