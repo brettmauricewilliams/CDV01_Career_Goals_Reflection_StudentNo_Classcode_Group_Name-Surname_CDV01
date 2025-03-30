@@ -12,7 +12,7 @@
 
 1. **Skills Analysis**:
     
-    -Current skills and areas of expertise:
+   -Current skills and areas of expertise:
 
       Hardware Troubleshooting (PCs, printers, network devices)
    
@@ -34,7 +34,7 @@
 
 2. **Interests and Values**:
     
-- Key interests related to my career:
+  -Key interests related to my career:
   
     Building internal tools to automate IT tasks or improve user experience
   
@@ -44,7 +44,7 @@
   
     Learning backend development to integrate APIs for IT services
   
-- Values that are important to me in a work environment:
+ -Values that are important to me in a work environment:
   
    A work culture that encourages finding creative solutions
   
@@ -80,23 +80,23 @@
    
 3. **Alignment with Personal Profile**:
     
-    - How these industries/roles align with my skills, interests, and values:
+   -How these industries/roles align with my skills, interests, and values:
       
-       Tech and Software Development:
+     Tech and Software Development:
       
-        Passion for building innovative software and working on cutting-edge tech
+      Passion for building innovative software and working on cutting-edge tech
       
-        High-paying and diverse career paths (startups, big tech, freelancing)
+      High-paying and diverse career paths (startups, big tech, freelancing)
       
-        Continuous learning and fast-paced environment
+      Continuous learning and fast-paced environment
    
-       Fintech Jobs:
+     Fintech Jobs:
       
-        Interest in cybersecurity, data security, and financial transactions
+       Interest in cybersecurity, data security, and financial transactions
       
-        Opportunities in blockchain, banking, investment platforms
+       Opportunities in blockchain, banking, investment platforms
       
-        High salaries and job stability
+       High salaries and job stability
    
       Education and E-Learning:
       
@@ -112,28 +112,41 @@
 1. **Short-term Goals** (Next 1-2 years):
     
    1. Build & Deploy a Personal Portfolio Website
+      
       Goal: Design, develop, and launch a personal portfolio website within 2 months.
+      
       Why? A portfolio showcases my skills to potential employers/clients.
 
      Specific: Create a responsive website with HTML, CSS, JavaScript, and a framework like React.
+   
      Measurable: At least 3 completed projects showcased in the portfolio.
+   
      Achievable: Use templates and tutorials for inspiration, then customize.
+   
      Relevant: Employers look for portfolios in web development.
+   
      Time-Bound: Set a deadline for completion in 8 weeks.
 
    2. Master JavaScript and a Frontend Framework (React/Vue/Angular)
+      
       Goal: Become proficient in JavaScript and one frontend framework in 3-4 months.
+      
       Why? JavaScript and modern frameworks are crucial for frontend development.
 
      Specific: Complete at least 3 small projects using JavaScript and a framework.
+   
      Measurable: Follow a structured online course (which I am doing now)
+   
      Achievable: Dedicate 1-2 hours per day to coding practice.
+   
      Relevant: Frontend jobs require knowledge of frameworks like React or Vue.
+   
      Time-Bound: Achieve basic proficiency in 3 months and build an advanced project in month 4.
    
 3. **Long-term Goals** (3-5 years and beyond):
     
  1. Become a Full-Stack Web Developer
+    
     Why?
    -Combines frontend (UI/UX) and backend (server-side logic), making me versatile.
    -Expands job opportunities in startups, tech companies, and freelancing.
