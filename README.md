@@ -12,13 +12,13 @@
 
 1. **Skills Analysis**:
     
--Current skills and areas of expertise.
+-Current skills and areas of expertise:
    Hardware Troubleshooting (PCs, printers, network devices)
    Networking Basics (TCP/IP, DNS, DHCP, VPN, Wi-Fi troubleshooting)
    Remote Desktop Support (Using tools like TeamViewer, AnyDesk, RDP)
    Backup & Recovery (Data recovery and backup strategies)
    
--Skills I need to develop or improve.
+-Skills I need to develop or improve:
     HTML, CSS, JavaScript, TypeScript
     Frontend frameworks like React, Angular, Vue.js
     Using Git, GitHub, GitLab, or Bitbucket
@@ -26,13 +26,13 @@
 
 2. **Interests and Values**:
     
-- Key interests related to my career.
+- Key interests related to my career:
     Building internal tools to automate IT tasks or improve user experience
     Developing web-based dashboards for IT monitoring and support
     Creating interactive knowledge bases for end-users
     Learning backend development to integrate APIs for IT services
   
-- Values that are important to me in a work environment.
+- Values that are important to me in a work environment:
    A work culture that encourages finding creative solutions
    Opportunities for training, certifications, and growth
    A culture that respects personal time and well-being
