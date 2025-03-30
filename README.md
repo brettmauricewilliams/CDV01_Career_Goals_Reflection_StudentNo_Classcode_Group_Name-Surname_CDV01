@@ -232,10 +232,15 @@
 2. **Opportunities for Growth**:
     
    -Mentorship Opportunities
+   
    -Join Developer Communities
+   
    -Educational & Skill-Building Opportunities (Enroll in Free & Paid Courses)
+   
    -Apply for Remote Internships
+   
    -Try Freelancing for Experience
+   
    -Volunteer for Nonprofits
 
 
