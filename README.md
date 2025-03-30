@@ -12,7 +12,7 @@
 
 1. **Skills Analysis**:
     
--Current skills and areas of expertise:
+    Current skills and areas of expertise:
 
       Hardware Troubleshooting (PCs, printers, network devices)
    
@@ -22,7 +22,7 @@
    
       Backup & Recovery (Data recovery and backup strategies)
    
--Skills I need to develop or improve:
+    Skills I need to develop or improve:
 
       HTML, CSS, JavaScript, TypeScript
     
@@ -34,7 +34,7 @@
 
 2. **Interests and Values**:
     
-  -Key interests related to my career:
+    Key interests related to my career:
   
      Building internal tools to automate IT tasks or improve user experience
   
@@ -44,7 +44,7 @@
   
      Learning backend development to integrate APIs for IT services
   
- -Values that are important to me in a work environment:
+    Values that are important to me in a work environment:
   
      A work culture that encourages finding creative solutions
   
@@ -60,23 +60,23 @@
     
    INDUSTRIES:
    
-     Technology & Software Development (SaaS companies, cloud computing, AI startups)
+      -Technology & Software Development (SaaS companies, cloud computing, AI startups)
    
-     Finance & FinTech (Banking, payment processing, cryptocurrency)
+      -Finance & FinTech (Banking, payment processing, cryptocurrency)
    
-     Education & E-Learning (Learning platforms, online courses, interactive apps)
+      -Education & E-Learning (Learning platforms, online courses, interactive apps)
 
    ROLES:
    
-     Frontend Developer
+       -Frontend Developer
    
-     Backend Developer
+       -Backend Developer
    
-     Full-Stack Developer
+       -Full-Stack Developer
    
-     DevOps Engineer
+       -DevOps Engineer
    
-     Software Tester / QA Engineer
+       -Software Tester / QA Engineer
    
 3. **Alignment with Personal Profile**:
     
